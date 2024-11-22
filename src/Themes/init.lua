@@ -6,6 +6,7 @@ local Themes = {
 		"Aqua",
 		"Amethyst",
 		"Rose",
+		"Aidan",
 	},
 }
 
